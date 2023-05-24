@@ -8,5 +8,4 @@ anyone may try to recreate this project just download the code and create a data
 	year int,
 	img VARCHAR(255),
 	PRIMARY KEY(id)
-
 );
